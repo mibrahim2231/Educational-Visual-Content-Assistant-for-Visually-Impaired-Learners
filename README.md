@@ -1,0 +1,2 @@
+# Educational-Visual-Content-Assistant-for-Visually-Impaired-Learners
+SceneScribe is an agentic, multimodal AI system designed to make academic visuals—such as graphs, flowcharts, and FYP/poster boards—accessible to blind and visually impaired learners. Powered by GPT‑4 Vision (GPT-4o) and integrated with LangChain, LangSmith tracing, and Text-to-Speech (TTS) capabilities, this assistant can explain visual content.
